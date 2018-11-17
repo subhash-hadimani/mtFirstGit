@@ -1,0 +1,10 @@
+ Volume in drive D is SONGS & MOVIES
+ Volume Serial Number is A8DA-B26D
+
+ Directory of D:\git_pro
+
+17-Nov-18  04:53 PM    <DIR>          .
+17-Nov-18  04:53 PM    <DIR>          ..
+17-Nov-18  04:53 PM                 0 Test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  19,648,487,424 bytes free
